@@ -2,10 +2,6 @@
 
 A visually appealing web-based rotational animation project built using **HTML**, **CSS**, and **JavaScript**. This animation simulates a rotating display effect with a seamless hover transition.
 
-## Demo
-
-![Rotational Animation Demo](images/demo.gif)
-
 ## Features
 
 - Smooth rotational animation triggered by hover.
