@@ -32,7 +32,6 @@ Follow these instructions to set up the project on your local machine.
   Or use a local server for better performance.
 
 ### Project Structure
-      ```bash
       rotational-animation/
       ├── index.html       # Main HTML file
       ├── style.css        # CSS for styling and animations
@@ -41,8 +40,8 @@ Follow these instructions to set up the project on your local machine.
       │   ├── bg2.jpg      # Background image 2
       │   ├── mockup.png   # Mask image for the animation
       │   ├── demo.gif     # Optional: Demo gif for README
-      └── README.md        # Project documentation 
-   
+      └── README.md        # Project documentation
+
 ### Usage
 
 1. Hover over the animation container to trigger the rotation effect.
